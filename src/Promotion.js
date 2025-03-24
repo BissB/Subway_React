@@ -1,10 +1,10 @@
 import React from 'react';
-import { Sillim } from './component_태영';
-import { Sinchon } from './component_준철';
-import { Total } from './component_성락';
-import { Jamsil } from './component_성태';
-import { Cityhall } from './components_성미';
-import App_gangnam from './components_연주/App_gangnam';
+import { Sillim } from './component_태영';
+import { Sinchon } from './component_준철';
+import { Total } from './component_성락';
+import { Jamsil } from './component_성태';
+import { Cityhall } from './components_성미';
+import App_gangnam from './components_연주/App_gangnam';
 
 const Promotion = ({ id }) => {
   let content;

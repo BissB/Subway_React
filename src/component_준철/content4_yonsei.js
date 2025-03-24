@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./content4_yonsei.module.css";
 import { Template } from "./index";
-import img4 from "./img/신촌_img4.jpg";
+import img4 from "./img/sinchon_img4.jpg";
 
 const Content4 = () => {
   return (

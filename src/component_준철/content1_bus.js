@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './content1_bus.module.css'
 import { Template } from './index';
-import img1 from './img/신촌_img1.jpg';
+import img1 from './img/sinchon_img1.jpg';
 
 
 

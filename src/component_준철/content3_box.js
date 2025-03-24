@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./content3_box.module.css";
 import { Template } from "./index";
-import img3 from "./img/신촌_img3.png";
+import img3 from "./img/sinchon_img3.png";
 
 const Content3 = () => {
   return (

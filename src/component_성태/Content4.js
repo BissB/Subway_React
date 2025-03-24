@@ -1,4 +1,4 @@
-import image4 from './img/잠실_img4.png';
+import image4 from './img/jamsil_img4.png';
 import Text4 from './Text4';
 import styles from './Content.module.css';
 import React , { useState } from 'react';

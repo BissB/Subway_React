@@ -3,10 +3,10 @@ import React, { useState } from "react";
 import SillimImg from "./SillimImg";
 import styles from "./Sillim.module.css";
 
-import 타임스트림 from "./img/sillim_타임스트림.jpg";
-import 물놀이장 from "./img/sillim_물놀이장.jpg";
-import 별빛축제 from "./img/sillim_별빛축제.jpg";
-import 순대타운 from "./img/sillim_순대타운.jpg";
+import 타임스트림 from "./img/sillim_1.jpg";
+import 물놀이장 from "./img/sillim_2.jpg";
+import 별빛축제 from "./img/sillim_3.jpg";
+import 순대타운 from "./img/sillim_4.jpg";
 
 
 

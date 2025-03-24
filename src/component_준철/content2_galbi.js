@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./content2_galbi.module.css";
 import { Template } from './index';
-import img2 from './img/신촌_img2.png';
+import img2 from './img/sinchon_img2.png';
 
 const Content2 = () => {
   return (
